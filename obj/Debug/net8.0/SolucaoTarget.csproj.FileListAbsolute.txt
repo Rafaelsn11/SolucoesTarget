@@ -12,3 +12,4 @@ C:\Projetos\SolucaoTarget\obj\Debug\net8.0\refint\SolucaoTarget.dll
 C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.pdb
 C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.genruntimeconfig.cache
 C:\Projetos\SolucaoTarget\obj\Debug\net8.0\ref\SolucaoTarget.dll
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.sourcelink.json
