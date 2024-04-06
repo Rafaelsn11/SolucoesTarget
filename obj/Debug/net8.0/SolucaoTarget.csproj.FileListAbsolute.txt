@@ -1,0 +1,14 @@
+C:\Projetos\SolucaoTarget\bin\Debug\net8.0\SolucaoTarget.exe
+C:\Projetos\SolucaoTarget\bin\Debug\net8.0\SolucaoTarget.deps.json
+C:\Projetos\SolucaoTarget\bin\Debug\net8.0\SolucaoTarget.runtimeconfig.json
+C:\Projetos\SolucaoTarget\bin\Debug\net8.0\SolucaoTarget.dll
+C:\Projetos\SolucaoTarget\bin\Debug\net8.0\SolucaoTarget.pdb
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.AssemblyInfoInputs.cache
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.AssemblyInfo.cs
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.csproj.CoreCompileInputs.cache
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.dll
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\refint\SolucaoTarget.dll
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.pdb
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\SolucaoTarget.genruntimeconfig.cache
+C:\Projetos\SolucaoTarget\obj\Debug\net8.0\ref\SolucaoTarget.dll
